@@ -1,0 +1,22 @@
+.modal {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    display: block;
+    background-color: rgba(0, 0, 0 , .7);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.hide {
+    display: none;
+}
+
+.imgFull {
+    width: 70vh;
+    position: relative;
+    margin-left: calc(50vw - 35vh);
+    margin-top: 10vh;
+}
